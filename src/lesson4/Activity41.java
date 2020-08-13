@@ -13,6 +13,10 @@ public class Activity41 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap vao so nguyen n: ");
         int n = scanner.nextInt();
-        System.out.println("So vua nhap la: " + n);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                
+            }
+        }
     }
 }
