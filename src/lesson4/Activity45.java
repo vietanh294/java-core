@@ -8,8 +8,8 @@ public class   Activity45 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhập số nguyên dương n:");
         int n = scanner.nextInt();
-        int g=1, i=1;
-
+        int i=1;
+        long g=1;
         do {
             g= g* i;
             i++;
